@@ -1,0 +1,240 @@
+<!doctype html>
+<html>
+
+        <head>
+                <style>
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 30px;
+  color: #777;
+  background: #99bbff;
+}
+		.container {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+
+		fieldset {
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+#contact input[type="file"],
+#contact button[type="submit"] {
+  font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+}
+
+#contact {
+  background: #F9F9F9;
+  padding: 25px;
+  margin: 150px 0;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#contact h3 {
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+#contact button[type="submit"] {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+
+
+                input[type=checkbox] + label {
+                        display: block;
+                        margin: 0.2em;
+                        cursor: pointer;
+                        padding: 0.2em;
+                }
+
+                input[type=checkbox] {
+                        display: none;
+                }
+
+                input[type=checkbox] + label:before {
+                        content: "\2714";
+                        border: 0.1em solid #000;
+                        border-radius: 0.2em;
+                        display: inline-block;
+                        width: 1em;
+                        height: 1em;
+                        padding-left: 0.2em;
+                        padding-bottom: 0.3em;
+                        margin-right: 0.2em;
+                        vertical-align: bottom;
+                        color: transparent;
+                        transition: .2s;
+                }
+
+                input[type=checkbox] + label:active:before {
+                        transform: scale(0);
+                }
+
+                input[type=checkbox]:checked + label:before {
+                        background-color: MediumSeaGreen;
+                        border-color: MediumSeaGreen;
+                        color: #fff;
+                }
+
+                input[type=checkbox]:disabled + label:before {
+                        transform: scale(1);
+                        border-color: #aaa;
+                }
+
+                input[type=checkbox]:checked:disabled + label:before {
+                        transform: scale(1);
+                        background-color: #bfb;
+                        border-color: #bfb;
+                }
+	
+		.grid-container {
+			display: grid;
+			grid-template-columns: auto auto;
+			background-color: #3e2723;
+			padding: 10px;
+			border-radius: 15px;
+		}
+		
+		.item {
+  background-color:  #ccccff;
+  border: 1px solid #fff;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+		   #contact button[type="submit"] {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#contact button[type="submit"]:hover {
+  background: #43A047;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#contact button[type="submit"]:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#contact input:focus,
+#contact textarea:focus {
+  outline: 0;
+  border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+  color: #888;
+}
+
+:-moz-placeholder {
+  color: #888;
+}
+
+::-moz-placeholder {
+  color: #888;
+}
+
+:-ms-input-placeholder {
+  color: #888;
+}
+
+#contact input[type="file"]{
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+}
+
+.copyright {
+  text-align: center;
+}
+
+
+
+		</style>
+
+
+	</head>
+
+
+   <body>
+
+	   <div class="container">
+		<div id="contact">
+		   <h3>{{ user }} Profile Enrichment </h3>
+		   <h4> Your skills: </h4>
+		   
+    		<div class="grid-container">
+		   {% for message in skills %}
+                   <div class="item">{{ message }}</div>
+                   {% endfor %}
+    		</div>
+		</div>
+	   </div>
+
+           <div class="container">
+                   <form id="contact" action="{{ url_for('profil_validation')}}" method="POST" name='colour'>
+                            <h4>More skills?</h4>
+                            <fieldset>
+                                {% for colour in rec_skills %}
+                                <input type="checkbox" id = "{{colour}}" name = "{{colour}}" value="{{colour}}">
+                                <label for="{{colour}}">{{colour}}</label>
+                                {% endfor %}
+
+                            </fieldset>
+                            <fieldset>
+                                    <button name="submit" type="submit" id="contact-submit">Submit</button>
+                            </fieldset>
+                        <p class="copyright">Designed by <a href="http://emps.exeter.ac.uk/computer-science/staff/ao383" target="_blank" title="Colorlib">Anaïs Ollagnier</a></p>
+                        <p class="copyright">Financed by <a href="http://sites.exeter.ac.uk/instituteofcoding/" target="_blank" title="Colorlib">Institut of Coding</a></p>
+                    </form>
+
+        </div>
+
+   </body>
+</html>
+
