@@ -63,7 +63,7 @@ with open("degree_jobs.txt".format(threshold), 'w') as outfile:
 attribute_to_vector = {}
 attributes = set();
 jobs = set();
-for fname in ["../db_24_0_text/Work Context.txt", "../db_24_0_text/Work Activities.txt", "../db_24_0_text/Knowledge.txt", "../db_24_0_text/Skills.txt","../db_24_0_text/Abilities.txt" ]:
+for fname in ["../db_24_0_text/Work Styles.txt", "../db_24_0_text/Work Context.txt", "../db_24_0_text/Work Activities.txt", "../db_24_0_text/Knowledge.txt", "../db_24_0_text/Skills.txt","../db_24_0_text/Abilities.txt" ]:
 	with open(fname, 'r') as csvfile:
 		csvreader = csv.reader(csvfile, delimiter='\t', quotechar='"')
 		header = next(csvreader);

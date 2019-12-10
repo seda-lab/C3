@@ -1,147 +1,147 @@
 O*NET-SOC Code	Title	Importance
 25-1032.00	Engineering Teachers, Postsecondary	100.02000000000001
-11-9039.01	Distance Learning Coordinators	100.01
-11-9199.03	Investment Fund Managers	100.01
-17-2171.00	Petroleum Engineers	100.01
-19-1029.03	Geneticists	100.01
-19-2041.03	Industrial Ecologists	100.01
 19-2042.00	Geoscientists, Except Hydrologists and Geographers	100.01
-19-3022.00	Survey Researchers	100.01
-19-3051.00	Urban and Regional Planners	100.01
-25-1066.00	Psychology Teachers, Postsecondary	100.01
-25-4011.00	Archivists	100.01
+11-9199.03	Investment Fund Managers	100.01
 25-9021.00	Farm and Home Management Advisors	100.01
-29-1069.02	Dermatologists	100.01
-29-1141.02	Advanced Practice Psychiatric Nurses	100.01
+19-1029.03	Geneticists	100.01
 29-1151.00	Nurse Anesthetists	100.01
+11-9039.01	Distance Learning Coordinators	100.01
+19-2041.03	Industrial Ecologists	100.01
+25-4011.00	Archivists	100.01
+17-2171.00	Petroleum Engineers	100.01
+19-3022.00	Survey Researchers	100.01
+25-1066.00	Psychology Teachers, Postsecondary	100.01
 29-1199.05	Orthoptists	100.01
+29-1141.02	Advanced Practice Psychiatric Nurses	100.01
+19-3051.00	Urban and Regional Planners	100.01
+29-1069.02	Dermatologists	100.01
 17-2051.00	Civil Engineers	100.00999999999999
-19-1021.00	Biochemists and Biophysicists	100.00999999999999
-21-1013.00	Marriage and Family Therapists	100.00999999999999
-23-1011.00	Lawyers	100.00999999999999
-25-1011.00	Business Teachers, Postsecondary	100.00999999999999
 25-9031.00	Instructional Coordinators	100.00999999999999
+21-1013.00	Marriage and Family Therapists	100.00999999999999
+19-1021.00	Biochemists and Biophysicists	100.00999999999999
+25-1011.00	Business Teachers, Postsecondary	100.00999999999999
 29-2011.01	Cytogenetic Technologists	100.00999999999999
+23-1011.00	Lawyers	100.00999999999999
+29-1122.00	Occupational Therapists	100.00000000000001
 17-2081.00	Environmental Engineers	100.00000000000001
 25-1064.00	Geography Teachers, Postsecondary	100.00000000000001
-25-2059.01	Adapted Physical Education Specialists	100.00000000000001
-29-1122.00	Occupational Therapists	100.00000000000001
 29-1125.02	Music Therapists	100.00000000000001
-11-3031.01	Treasurers and Controllers	100.0
-11-3111.00	Compensation and Benefits Managers	100.0
-11-9033.00	Education Administrators, Postsecondary	100.0
-11-9039.02	Fitness and Wellness Coordinators	100.0
-11-9121.02	Water Resource Specialists	100.0
-13-1041.07	Regulatory Affairs Specialists	100.0
-13-1111.00	Management Analysts	100.0
-13-1161.00	Market Research Analysts and Marketing Specialists	100.0
-13-2011.02	Auditors	100.0
-13-2099.01	Financial Quantitative Analysts	100.0
-13-2099.02	Risk Management Specialists	100.0
-15-2011.00	Actuaries	100.0
-15-2031.00	Operations Research Analysts	100.0
-15-2041.00	Statisticians	100.0
-15-2041.01	Biostatisticians	100.0
-17-1011.00	Architects, Except Landscape and Naval	100.0
-17-2021.00	Agricultural Engineers	100.0
-17-2031.00	Biomedical Engineers	100.0
-17-2041.00	Chemical Engineers	100.0
-17-2051.01	Transportation Engineers	100.0
-17-2061.00	Computer Hardware Engineers	100.0
-17-2081.01	Water/Wastewater Engineers	100.0
-17-2112.01	Human Factors Engineers and Ergonomists	100.0
-17-2141.01	Fuel Cell Engineers	100.0
-17-2141.02	Automotive Engineers	100.0
-17-2199.09	Nanosystems Engineers	100.0
-19-1011.00	Animal Scientists	100.0
-19-1012.00	Food Scientists and Technologists	100.0
-19-1020.01	Biologists	100.0
-19-1029.01	Bioinformatics Scientists	100.0
-19-1031.03	Park Naturalists	100.0
-19-1041.00	Epidemiologists	100.0
-19-1042.00	Medical Scientists, Except Epidemiologists	100.0
-19-2011.00	Astronomers	100.0
-19-2043.00	Hydrologists	100.0
-19-3011.00	Economists	100.0
-19-3031.01	School Psychologists	100.0
-19-3031.02	Clinical Psychologists	100.0
-19-3031.03	Counseling Psychologists	100.0
-19-3039.01	Neuropsychologists and Clinical Neuropsychologists	100.0
-19-3041.00	Sociologists	100.0
-19-3099.01	Transportation Planners	100.0
-21-1022.00	Healthcare Social Workers	100.0
-25-1021.00	Computer Science Teachers, Postsecondary	100.0
-25-1022.00	Mathematical Science Teachers, Postsecondary	100.0
-25-1043.00	Forestry and Conservation Science Teachers, Postsecondary	100.0
-25-1051.00	Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	100.0
-25-1053.00	Environmental Science Teachers, Postsecondary	100.0
-25-1054.00	Physics Teachers, Postsecondary	100.0
-25-1061.00	Anthropology and Archeology Teachers, Postsecondary	100.0
-25-1063.00	Economics Teachers, Postsecondary	100.0
-25-1065.00	Political Science Teachers, Postsecondary	100.0
-25-1067.00	Sociology Teachers, Postsecondary	100.0
-25-1072.00	Nursing Instructors and Teachers, Postsecondary	100.0
-25-1081.00	Education Teachers, Postsecondary	100.0
-25-1113.00	Social Work Teachers, Postsecondary	100.0
-25-1124.00	Foreign Language and Literature Teachers, Postsecondary	100.0
-25-1125.00	History Teachers, Postsecondary	100.0
-25-1193.00	Recreation and Fitness Studies Teachers, Postsecondary	100.0
-25-2053.00	Special Education Teachers, Middle School	100.0
-27-3031.00	Public Relations Specialists	100.0
-27-3041.00	Editors	100.0
-29-1022.00	Oral and Maxillofacial Surgeons	100.0
-29-1024.00	Prosthodontists	100.0
-29-1041.00	Optometrists	100.0
-29-1061.00	Anesthesiologists	100.0
-29-1062.00	Family and General Practitioners	100.0
-29-1063.00	Internists, General	100.0
+25-2059.01	Adapted Physical Education Specialists	100.00000000000001
 29-1067.00	Surgeons	100.0
-29-1069.01	Allergists and Immunologists	100.0
-29-1069.03	Hospitalists	100.0
+19-1029.01	Bioinformatics Scientists	100.0
+29-1063.00	Internists, General	100.0
+15-2031.00	Operations Research Analysts	100.0
+29-9092.00	Genetic Counselors	100.0
+25-1051.00	Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	100.0
+17-2112.01	Human Factors Engineers and Ergonomists	100.0
+25-1067.00	Sociology Teachers, Postsecondary	100.0
+19-3041.00	Sociologists	100.0
 29-1069.07	Pathologists	100.0
-29-1069.08	Physical Medicine and Rehabilitation Physicians	100.0
+25-1022.00	Mathematical Science Teachers, Postsecondary	100.0
+19-1042.00	Medical Scientists, Except Epidemiologists	100.0
+11-3111.00	Compensation and Benefits Managers	100.0
+25-1061.00	Anthropology and Archeology Teachers, Postsecondary	100.0
+19-2043.00	Hydrologists	100.0
+17-2051.01	Transportation Engineers	100.0
+19-3099.01	Transportation Planners	100.0
+25-1072.00	Nursing Instructors and Teachers, Postsecondary	100.0
 29-1069.09	Preventive Medicine Physicians	100.0
-29-1069.11	Sports Medicine Physicians	100.0
+27-3041.00	Editors	100.0
+19-3031.01	School Psychologists	100.0
+29-1127.00	Speech-Language Pathologists	100.0
+17-2061.00	Computer Hardware Engineers	100.0
+29-1069.03	Hospitalists	100.0
+27-3031.00	Public Relations Specialists	100.0
+17-2081.01	Water/Wastewater Engineers	100.0
+15-2011.00	Actuaries	100.0
+25-1125.00	History Teachers, Postsecondary	100.0
+29-2011.02	Cytotechnologists	100.0
+21-1022.00	Healthcare Social Workers	100.0
+11-9039.02	Fitness and Wellness Coordinators	100.0
+15-2041.01	Biostatisticians	100.0
+19-3031.03	Counseling Psychologists	100.0
+11-9033.00	Education Administrators, Postsecondary	100.0
+25-1113.00	Social Work Teachers, Postsecondary	100.0
+17-2031.00	Biomedical Engineers	100.0
+13-2099.02	Risk Management Specialists	100.0
+29-9091.00	Athletic Trainers	100.0
+19-1012.00	Food Scientists and Technologists	100.0
+25-1193.00	Recreation and Fitness Studies Teachers, Postsecondary	100.0
+19-1041.00	Epidemiologists	100.0
+25-1081.00	Education Teachers, Postsecondary	100.0
+13-1041.07	Regulatory Affairs Specialists	100.0
+17-2021.00	Agricultural Engineers	100.0
+13-1111.00	Management Analysts	100.0
+29-1024.00	Prosthodontists	100.0
+15-2041.00	Statisticians	100.0
+29-1069.08	Physical Medicine and Rehabilitation Physicians	100.0
+13-2099.01	Financial Quantitative Analysts	100.0
+29-1131.00	Veterinarians	100.0
+11-3031.01	Treasurers and Controllers	100.0
+19-3039.01	Neuropsychologists and Clinical Neuropsychologists	100.0
+17-1011.00	Architects, Except Landscape and Naval	100.0
+13-2011.02	Auditors	100.0
 29-1071.00	Physician Assistants	100.0
+19-1020.01	Biologists	100.0
+29-1069.11	Sports Medicine Physicians	100.0
+19-3031.02	Clinical Psychologists	100.0
+29-1022.00	Oral and Maxillofacial Surgeons	100.0
+25-2053.00	Special Education Teachers, Middle School	100.0
+25-1124.00	Foreign Language and Literature Teachers, Postsecondary	100.0
+17-2141.01	Fuel Cell Engineers	100.0
+17-2199.09	Nanosystems Engineers	100.0
+17-2041.00	Chemical Engineers	100.0
+11-9121.02	Water Resource Specialists	100.0
+19-3011.00	Economists	100.0
+29-1069.01	Allergists and Immunologists	100.0
+13-1161.00	Market Research Analysts and Marketing Specialists	100.0
+29-1041.00	Optometrists	100.0
+19-2011.00	Astronomers	100.0
+29-1061.00	Anesthesiologists	100.0
+19-1011.00	Animal Scientists	100.0
+25-1065.00	Political Science Teachers, Postsecondary	100.0
+25-1043.00	Forestry and Conservation Science Teachers, Postsecondary	100.0
+19-1031.03	Park Naturalists	100.0
+29-1062.00	Family and General Practitioners	100.0
+25-1063.00	Economics Teachers, Postsecondary	100.0
 29-1123.00	Physical Therapists	100.0
 29-1125.01	Art Therapists	100.0
-29-1127.00	Speech-Language Pathologists	100.0
-29-1131.00	Veterinarians	100.0
-29-1181.00	Audiologists	100.0
-29-2011.02	Cytotechnologists	100.0
-29-9091.00	Athletic Trainers	100.0
-29-9092.00	Genetic Counselors	100.0
 43-9111.01	Bioinformatics Technicians	100.0
+17-2141.02	Automotive Engineers	100.0
+25-1021.00	Computer Science Teachers, Postsecondary	100.0
+29-1181.00	Audiologists	100.0
+25-1054.00	Physics Teachers, Postsecondary	100.0
+25-1053.00	Environmental Science Teachers, Postsecondary	100.0
+29-1141.04	Clinical Nurse Specialists	99.99999999999999
 19-3092.00	Geographers	99.99999999999999
 25-2012.00	Kindergarten Teachers, Except Special Education	99.99999999999999
-29-1141.04	Clinical Nurse Specialists	99.99999999999999
-11-9121.00	Natural Sciences Managers	99.99000000000001
-15-1199.04	Geospatial Information Scientists and Technologists	99.99000000000001
-19-1013.00	Soil and Plant Scientists	99.99000000000001
-19-3011.01	Environmental Economists	99.99000000000001
-19-3091.01	Anthropologists	99.99000000000001
-19-3091.02	Archeologists	99.99000000000001
-29-1069.12	Urologists	99.99000000000001
 29-1128.00	Exercise Physiologists	99.99000000000001
+19-3091.01	Anthropologists	99.99000000000001
+15-1199.04	Geospatial Information Scientists and Technologists	99.99000000000001
 29-2091.00	Orthotists and Prosthetists	99.99000000000001
-13-1041.01	Environmental Compliance Inspectors	99.99
-15-2021.00	Mathematicians	99.99
-19-2041.02	Environmental Restoration Planners	99.99
-19-3032.00	Industrial-Organizational Psychologists	99.99
-19-3094.00	Political Scientists	99.99
-25-1126.00	Philosophy and Religion Teachers, Postsecondary	99.99
+19-3011.01	Environmental Economists	99.99000000000001
+19-1013.00	Soil and Plant Scientists	99.99000000000001
+19-3091.02	Archeologists	99.99000000000001
+11-9121.00	Natural Sciences Managers	99.99000000000001
+29-1069.12	Urologists	99.99000000000001
 25-2031.00	Secondary School Teachers, Except Special and Career/Technical Education	99.99
+25-1126.00	Philosophy and Religion Teachers, Postsecondary	99.99
+13-1041.01	Environmental Compliance Inspectors	99.99
 29-1031.00	Dietitians and Nutritionists	99.99
 29-1051.00	Pharmacists	99.99
+19-3094.00	Political Scientists	99.99
+19-3032.00	Industrial-Organizational Psychologists	99.99
 29-1064.00	Obstetricians and Gynecologists	99.99
-29-1171.00	Nurse Practitioners	99.99
 29-1199.04	Naturopathic Physicians	99.99
+19-2041.02	Environmental Restoration Planners	99.99
+29-1171.00	Nurse Practitioners	99.99
+15-2021.00	Mathematicians	99.99
 25-1122.00	Communications Teachers, Postsecondary	99.98999999999998
 19-2041.01	Climate Change Analysts	99.98999999999997
 29-1023.00	Orthodontists	99.94
 25-1062.00	Area, Ethnic, and Cultural Studies Teachers, Postsecondary	99.83
-17-2199.06	Microsystems Engineers	99.7
 25-1052.00	Chemistry Teachers, Postsecondary	99.7
+17-2199.06	Microsystems Engineers	99.7
 29-1066.00	Psychiatrists	99.53999999999999
 25-2023.00	Career/Technical Education Teachers, Middle School	99.44
 25-2054.00	Special Education Teachers, Secondary School	99.26999999999998
@@ -173,16 +173,16 @@ O*NET-SOC Code	Title	Importance
 19-4021.00	Biological Technicians	96.21000000000001
 11-1011.03	Chief Sustainability Officers	96.16
 29-1069.06	Ophthalmologists	96.07
-13-2061.00	Financial Examiners	96.0
-13-2099.04	Fraud Examiners, Investigators and Analysts	96.0
 17-2199.01	Biochemical Engineers	96.0
-29-1122.01	Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists	96.0
+13-2061.00	Financial Examiners	96.0
 29-1125.00	Recreational Therapists	96.0
+13-2099.04	Fraud Examiners, Investigators and Analysts	96.0
+29-1122.01	Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists	96.0
 15-1199.06	Database Architects	95.84
-15-1199.08	Business Intelligence Analysts	95.83
 19-2032.00	Materials Scientists	95.83
-11-3121.00	Human Resources Managers	95.66
+15-1199.08	Business Intelligence Analysts	95.83
 25-9031.01	Instructional Designers and Technologists	95.66
+11-3121.00	Human Resources Managers	95.66
 19-1022.00	Microbiologists	95.65999999999998
 29-1069.05	Nuclear Medicine Physicians	95.65
 19-1029.02	Molecular and Cellular Biologists	95.63999999999999
@@ -197,18 +197,18 @@ O*NET-SOC Code	Title	Importance
 15-1133.00	Software Developers, Systems Software	95.22000000000001
 17-2071.00	Electrical Engineers	95.17
 25-4012.00	Curators	95.14
-15-2041.02	Clinical Data Managers	95.0
 17-2199.02	Validation Engineers	95.0
+15-2041.02	Clinical Data Managers	95.0
 19-2021.00	Atmospheric and Space Scientists	95.0
-15-1199.05	Geographic Information Systems Technicians	94.49
 21-1021.00	Child, Family, and School Social Workers	94.49
+15-1199.05	Geographic Information Systems Technicians	94.49
 17-2199.10	Wind Energy Engineers	94.48
 21-1012.00	Educational, Guidance, School, and Vocational Counselors	93.73
 21-2021.00	Directors, Religious Activities and Education	93.70000000000002
 19-2012.00	Physicists	93.56
 21-1092.00	Probation Officers and Correctional Treatment Specialists	92.91
-13-1199.05	Sustainability Specialists	92.85
 13-2052.00	Personal Financial Advisors	92.85
+13-1199.05	Sustainability Specialists	92.85
 11-3131.00	Training and Development Managers	92.58
 27-2012.05	Technical Directors/Managers	92.49
 25-1071.00	Health Specialties Teachers, Postsecondary	92.48
@@ -253,8 +253,8 @@ O*NET-SOC Code	Title	Importance
 23-1012.00	Judicial Law Clerks	85.99000000000001
 13-1041.03	Equal Opportunity Representatives and Officers	85.93
 29-1199.01	Acupuncturists	85.63000000000001
-19-4061.01	City and Regional Planning Aides	85.0
 29-9012.00	Occupational Health and Safety Technicians	85.0
+19-4061.01	City and Regional Planning Aides	85.0
 29-1081.00	Podiatrists	84.78999999999999
 25-2032.00	Career/Technical Education Teachers, Secondary School	84.58
 17-2072.01	Radio Frequency Identification Device Specialists	84.28
@@ -276,10 +276,10 @@ O*NET-SOC Code	Title	Importance
 17-3011.01	Architectural Drafters	80.43
 23-1021.00	Administrative Law Judges, Adjudicators, and Hearing Officers	80.15
 17-2199.08	Robotics Engineers	80.01
-11-9021.00	Construction Managers	80.0
-11-9199.07	Security Managers	80.0
 17-1022.01	Geodetic Surveyors	80.0
 17-2199.04	Manufacturing Engineers	80.0
+11-9199.07	Security Managers	80.0
+11-9021.00	Construction Managers	80.0
 23-1022.00	Arbitrators, Mediators, and Conciliators	80.0
 19-4011.01	Agricultural Technicians	79.5
 33-3031.00	Fish and Game Wardens	79.35
@@ -296,16 +296,16 @@ O*NET-SOC Code	Title	Importance
 41-4012.00	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	76.6
 19-1031.01	Soil and Water Conservationists	76.19
 13-2031.00	Budget Analysts	76.03
-11-9161.00	Emergency Management Directors	76.0
 13-1081.02	Logistics Analysts	76.0
+11-9161.00	Emergency Management Directors	76.0
 21-1011.00	Substance Abuse and Behavioral Disorder Counselors	75.75000000000001
 11-9121.01	Clinical Research Coordinators	75.26
 13-1081.00	Logisticians	75.0
 15-1199.01	Software Quality Assurance Engineers and Testers	74.07000000000001
 19-4099.02	Precision Agriculture Technicians	74.07
 11-9199.09	Wind Energy Operations Managers	73.98
-25-3011.00	Adult Basic and Secondary Education and Literacy Teachers and Instructors	73.97
 41-3099.01	Energy Brokers	73.97
+25-3011.00	Adult Basic and Secondary Education and Literacy Teachers and Instructors	73.97
 13-1141.00	Compensation, Benefits, and Job Analysis Specialists	73.91999999999999
 27-3043.04	Copy Writers	73.75
 13-2053.00	Insurance Underwriters	73.33
@@ -351,8 +351,8 @@ O*NET-SOC Code	Title	Importance
 13-1011.00	Agents and Business Managers of Artists, Performers, and Athletes	60.64
 45-1011.06	First-Line Supervisors of Aquacultural Workers	60.07
 29-9099.01	Midwives	60.03
-13-2021.02	Appraisers, Real Estate	60.0
 15-1199.03	Web Administrators	60.0
+13-2021.02	Appraisers, Real Estate	60.0
 11-9199.08	Loss Prevention Managers	59.099999999999994
 15-1121.00	Computer Systems Analysts	58.81
 21-1093.00	Social and Human Service Assistants	58.24
@@ -362,8 +362,8 @@ O*NET-SOC Code	Title	Importance
 19-4041.01	Geophysical Data Technicians	57.43
 29-1071.01	Anesthesiologist Assistants	57.3
 31-9099.01	Speech-Language Pathology Assistants	56.75
-11-9141.00	Property, Real Estate, and Community Association Managers	56.0
 15-1199.12	Document Management Specialists	56.0
+11-9141.00	Property, Real Estate, and Community Association Managers	56.0
 53-6051.08	Freight and Cargo Inspectors	55.13000000000001
 25-3021.00	Self-Enrichment Education Teachers	54.23
 11-3071.02	Storage and Distribution Managers	54.17
@@ -407,12 +407,12 @@ O*NET-SOC Code	Title	Importance
 33-9021.00	Private Detectives and Investigators	42.15
 41-4011.07	Solar Sales Representatives and Assessors	42.02
 27-3042.00	Technical Writers	41.970000000000006
-13-2071.00	Credit Counselors	41.94
 17-1022.00	Surveyors	41.94
+13-2071.00	Credit Counselors	41.94
 41-4011.00	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	41.38
 13-1199.06	Online Merchants	41.29
-27-2042.01	Singers	41.129999999999995
 43-4061.00	Eligibility Interviewers, Government Programs	41.129999999999995
+27-2042.01	Singers	41.129999999999995
 39-9041.00	Residential Advisors	40.980000000000004
 13-1121.00	Meeting, Convention, and Event Planners	40.8
 11-3071.01	Transportation Managers	40.79
@@ -464,8 +464,8 @@ O*NET-SOC Code	Title	Importance
 13-1041.06	Coroners	29.05
 11-3011.00	Administrative Services Managers	28.27
 17-3029.08	Photonics Technicians	28.0
-27-1012.00	Craft Artists	28.0
 39-9031.00	Fitness Trainers and Aerobics Instructors	28.0
+27-1012.00	Craft Artists	28.0
 51-9082.00	Medical Appliance Technicians	27.96
 51-9195.05	Potters, Manufacturing	27.62
 43-4071.00	File Clerks	26.89
@@ -528,8 +528,8 @@ O*NET-SOC Code	Title	Importance
 19-4051.02	Nuclear Monitoring Technicians	15.86
 51-2011.00	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	15.65
 51-8011.00	Nuclear Power Reactor Operators	15.32
-39-7012.00	Travel Guides	15.17
 53-1021.00	First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	15.17
+39-7012.00	Travel Guides	15.17
 17-3029.01	Non-Destructive Testing Specialists	15.0
 17-3023.03	Electrical Engineering Technicians	14.83
 19-4093.00	Forest and Conservation Technicians	14.82
@@ -548,8 +548,8 @@ O*NET-SOC Code	Title	Importance
 45-1011.07	First-Line Supervisors of Agricultural Crop and Horticultural Workers	12.94
 33-1021.01	Municipal Fire Fighting and Prevention Supervisors	12.87
 37-3012.00	Pesticide Handlers, Sprayers, and Applicators, Vegetation	12.82
-33-3021.01	Police Detectives	12.77
 33-9092.00	Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	12.77
+33-3021.01	Police Detectives	12.77
 49-2097.00	Electronic Home Entertainment Equipment Installers and Repairers	12.64
 43-4111.00	Interviewers, Except Eligibility and Loan	12.36
 43-4031.03	License Clerks	12.34
@@ -623,8 +623,8 @@ O*NET-SOC Code	Title	Importance
 35-9031.00	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	5.69
 53-3041.00	Taxi Drivers and Chauffeurs	5.68
 11-9051.00	Food Service Managers	5.54
-33-2021.01	Fire Inspectors	5.51
 49-2021.00	Radio, Cellular, and Tower Equipment Installers and Repairers	5.51
+33-2021.01	Fire Inspectors	5.51
 53-3032.00	Heavy and Tractor-Trailer Truck Drivers	5.48
 35-3022.01	Baristas	5.47
 13-2021.01	Assessors	5.45
@@ -649,8 +649,8 @@ O*NET-SOC Code	Title	Importance
 27-4013.00	Radio Operators	4.3
 47-2151.00	Pipelayers	4.3
 29-2052.00	Pharmacy Technicians	4.19
-17-3031.01	Surveying Technicians	4.17
 51-9071.01	Jewelers	4.17
+17-3031.01	Surveying Technicians	4.17
 51-2093.00	Timing Device Assemblers and Adjusters	4.16
 45-2021.00	Animal Breeders	4.0600000000000005
 51-4035.00	Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	4.05
@@ -666,8 +666,8 @@ O*NET-SOC Code	Title	Importance
 35-2014.00	Cooks, Restaurant	3.52
 33-3021.03	Criminal Investigators and Special Agents	3.49
 51-4193.00	Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	3.43
-31-9011.00	Massage Therapists	3.33
 49-2091.00	Avionics Technicians	3.33
+31-9011.00	Massage Therapists	3.33
 51-2041.00	Structural Metal Fabricators and Fitters	3.31
 43-4151.00	Order Clerks	3.26
 39-3021.00	Motion Picture Projectionists	3.23
@@ -682,10 +682,10 @@ O*NET-SOC Code	Title	Importance
 49-3041.00	Farm Equipment Mechanics and Service Technicians	2.63
 49-3011.00	Aircraft Mechanics and Service Technicians	2.5
 49-3093.00	Tire Repairers and Changers	2.41
+49-2095.00	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2.39
 27-4012.00	Broadcast Technicians	2.39
 29-2099.06	Radiologic Technicians	2.39
 43-5041.00	Meter Readers, Utilities	2.39
-49-2095.00	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2.39
 53-7081.00	Refuse and Recyclable Material Collectors	2.22
 49-3092.00	Recreational Vehicle Service Technicians	2.08
 51-6041.00	Shoe and Leather Workers and Repairers	1.85
@@ -725,17 +725,17 @@ O*NET-SOC Code	Title	Importance
 43-4181.00	Reservation and Transportation Ticket Agents and Travel Clerks	0.59
 51-2023.00	Electromechanical Equipment Assemblers	0.58
 51-8031.00	Water and Wastewater Treatment Plant and System Operators	0.52
-43-5111.00	Weighers, Measurers, Checkers, and Samplers, Recordkeeping	0.51
 49-9097.00	Signal and Track Switch Repairers	0.51
-29-2071.00	Medical Records and Health Information Technicians	0.5
+43-5111.00	Weighers, Measurers, Checkers, and Samplers, Recordkeeping	0.51
 41-2022.00	Parts Salespersons	0.5
 51-8099.03	Biomass Plant Technicians	0.5
-47-2231.00	Solar Photovoltaic Installers	0.49
+29-2071.00	Medical Records and Health Information Technicians	0.5
 51-9023.00	Mixing and Blending Machine Setters, Operators, and Tenders	0.49
-31-1014.00	Nursing Assistants	0.45
+47-2231.00	Solar Photovoltaic Installers	0.49
 51-4021.00	Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	0.45
-41-1011.00	First-Line Supervisors of Retail Sales Workers	0.42
+31-1014.00	Nursing Assistants	0.45
 41-2011.00	Cashiers	0.42
+41-1011.00	First-Line Supervisors of Retail Sales Workers	0.42
 49-2011.00	Computer, Automated Teller, and Office Machine Repairers	0.38
 51-8013.00	Power Plant Operators	0.37
 49-9096.00	Riggers	0.33
@@ -751,218 +751,218 @@ O*NET-SOC Code	Title	Importance
 51-4062.00	Patternmakers, Metal and Plastic	0.11
 49-9071.00	Maintenance and Repair Workers, General	0.09
 39-3091.00	Amusement and Recreation Attendants	0.06
+51-4072.00	Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
+51-5113.00	Print Binding and Finishing Workers	0.0
+47-2022.00	Stonemasons	0.0
+47-4061.00	Rail-Track Laying and Maintenance Equipment Operators	0.0
+53-7071.00	Gas Compressor and Gas Pumping Station Operators	0.0
+49-9031.00	Home Appliance Repairers	0.0
+37-3013.00	Tree Trimmers and Pruners	0.0
+53-7064.00	Packers and Packagers, Hand	0.0
+53-4031.00	Railroad Conductors and Yardmasters	0.0
+51-3023.00	Slaughterers and Meat Packers	0.0
+51-8012.00	Power Distributors and Dispatchers	0.0
+33-3012.00	Correctional Officers and Jailers	0.0
+45-2041.00	Graders and Sorters, Agricultural Products	0.0
+49-9098.00	Helpers--Installation, Maintenance, and Repair Workers	0.0
+47-2071.00	Paving, Surfacing, and Tamping Equipment Operators	0.0
+51-4121.06	Welders, Cutters, and Welder Fitters	0.0
+43-5051.00	Postal Service Clerks	0.0
+53-4012.00	Locomotive Firers	0.0
+47-2043.00	Floor Sanders and Finishers	0.0
+49-3023.02	Automotive Specialty Technicians	0.0
+51-4033.00	Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
+51-9191.00	Adhesive Bonding Machine Operators and Tenders	0.0
+51-6093.00	Upholsterers	0.0
+49-9043.00	Maintenance Workers, Machinery	0.0
+53-2031.00	Flight Attendants	0.0
+51-9071.07	Precious Metal Workers	0.0
+49-9094.00	Locksmiths and Safe Repairers	0.0
+45-4021.00	Fallers	0.0
+47-4051.00	Highway Maintenance Workers	0.0
+49-9052.00	Telecommunications Line Installers and Repairers	0.0
+39-3011.00	Gaming Dealers	0.0
+33-9093.00	Transportation Security Screeners	0.0
+51-9194.00	Etchers and Engravers	0.0
+49-9095.00	Manufactured Building and Mobile Home Installers	0.0
 27-2031.00	Dancers	0.0
 29-2055.00	Surgical Technologists	0.0
-29-2081.00	Opticians, Dispensing	0.0
-31-1011.00	Home Health Aides	0.0
-31-1015.00	Orderlies	0.0
-31-2012.00	Occupational Therapy Aides	0.0
-31-9092.00	Medical Assistants	0.0
-31-9094.00	Medical Transcriptionists	0.0
-31-9095.00	Pharmacy Aides	0.0
-31-9099.02	Endoscopy Technicians	0.0
-33-3011.00	Bailiffs	0.0
-33-3012.00	Correctional Officers and Jailers	0.0
-33-9011.00	Animal Control Workers	0.0
-33-9031.00	Gaming Surveillance Officers and Gaming Investigators	0.0
-33-9032.00	Security Guards	0.0
-33-9091.00	Crossing Guards	0.0
-33-9093.00	Transportation Security Screeners	0.0
-35-1012.00	First-Line Supervisors of Food Preparation and Serving Workers	0.0
-35-2011.00	Cooks, Fast Food	0.0
-35-2013.00	Cooks, Private Household	0.0
-35-2015.00	Cooks, Short Order	0.0
-35-3021.00	Combined Food Preparation and Serving Workers, Including Fast Food	0.0
-35-9021.00	Dishwashers	0.0
-37-2021.00	Pest Control Workers	0.0
-37-3013.00	Tree Trimmers and Pruners	0.0
-39-1012.00	Slot Supervisors	0.0
-39-3011.00	Gaming Dealers	0.0
-39-3012.00	Gaming and Sports Book Writers and Runners	0.0
-39-3093.00	Locker Room, Coatroom, and Dressing Room Attendants	0.0
-39-5012.00	Hairdressers, Hairstylists, and Cosmetologists	0.0
-39-5092.00	Manicurists and Pedicurists	0.0
-39-5093.00	Shampooers	0.0
-39-5094.00	Skincare Specialists	0.0
-39-6011.00	Baggage Porters and Bellhops	0.0
-41-2012.00	Gaming Change Persons and Booth Cashiers	0.0
-41-9012.00	Models	0.0
-41-9041.00	Telemarketers	0.0
-41-9091.00	Door-To-Door Sales Workers, News and Street Vendors, and Related Workers	0.0
-43-2021.00	Telephone Operators	0.0
-43-3021.01	Statement Clerks	0.0
-43-3041.00	Gaming Cage Workers	0.0
-43-4031.01	Court Clerks	0.0
-43-5011.00	Cargo and Freight Agents	0.0
-43-5021.00	Couriers and Messengers	0.0
-43-5031.00	Police, Fire, and Ambulance Dispatchers	0.0
-43-5051.00	Postal Service Clerks	0.0
-43-5052.00	Postal Service Mail Carriers	0.0
-43-5053.00	Postal Service Mail Sorters, Processors, and Processing Machine Operators	0.0
-43-5081.01	Stock Clerks, Sales Floor	0.0
-43-5081.02	Marking Clerks	0.0
-43-6013.00	Medical Secretaries	0.0
-43-9021.00	Data Entry Keyers	0.0
-43-9022.00	Word Processors and Typists	0.0
-43-9051.00	Mail Clerks and Mail Machine Operators, Except Postal Service	0.0
-45-2041.00	Graders and Sorters, Agricultural Products	0.0
-45-2091.00	Agricultural Equipment Operators	0.0
-45-4021.00	Fallers	0.0
-45-4022.00	Logging Equipment Operators	0.0
-45-4023.00	Log Graders and Scalers	0.0
-47-1011.00	First-Line Supervisors of Construction Trades and Extraction Workers	0.0
-47-2011.00	Boilermakers	0.0
-47-2021.00	Brickmasons and Blockmasons	0.0
-47-2022.00	Stonemasons	0.0
-47-2041.00	Carpet Installers	0.0
-47-2042.00	Floor Layers, Except Carpet, Wood, and Hard Tiles	0.0
-47-2043.00	Floor Sanders and Finishers	0.0
-47-2044.00	Tile and Marble Setters	0.0
-47-2051.00	Cement Masons and Concrete Finishers	0.0
-47-2053.00	Terrazzo Workers and Finishers	0.0
-47-2071.00	Paving, Surfacing, and Tamping Equipment Operators	0.0
-47-2072.00	Pile-Driver Operators	0.0
-47-2073.00	Operating Engineers and Other Construction Equipment Operators	0.0
-47-2082.00	Tapers	0.0
-47-2121.00	Glaziers	0.0
-47-2131.00	Insulation Workers, Floor, Ceiling, and Wall	0.0
-47-2132.00	Insulation Workers, Mechanical	0.0
-47-2142.00	Paperhangers	0.0
-47-2152.01	Pipe Fitters and Steamfitters	0.0
-47-2152.02	Plumbers	0.0
-47-2161.00	Plasterers and Stucco Masons	0.0
-47-2171.00	Reinforcing Iron and Rebar Workers	0.0
-47-2211.00	Sheet Metal Workers	0.0
-47-3012.00	Helpers--Carpenters	0.0
-47-3013.00	Helpers--Electricians	0.0
-47-3014.00	Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	0.0
-47-4031.00	Fence Erectors	0.0
-47-4051.00	Highway Maintenance Workers	0.0
-47-4061.00	Rail-Track Laying and Maintenance Equipment Operators	0.0
-47-4071.00	Septic Tank Servicers and Sewer Pipe Cleaners	0.0
-47-4091.00	Segmental Pavers	0.0
-47-5011.00	Derrick Operators, Oil and Gas	0.0
-47-5013.00	Service Unit Operators, Oil, Gas, and Mining	0.0
-47-5021.00	Earth Drillers, Except Oil and Gas	0.0
-47-5031.00	Explosives Workers, Ordnance Handling Experts, and Blasters	0.0
-47-5041.00	Continuous Mining Machine Operators	0.0
-47-5042.00	Mine Cutting and Channeling Machine Operators	0.0
-47-5061.00	Roof Bolters, Mining	0.0
-47-5071.00	Roustabouts, Oil and Gas	0.0
-47-5081.00	Helpers--Extraction Workers	0.0
-49-2092.00	Electric Motor, Power Tool, and Related Repairers	0.0
-49-2094.00	Electrical and Electronics Repairers, Commercial and Industrial Equipment	0.0
-49-2096.00	Electronic Equipment Installers and Repairers, Motor Vehicles	0.0
-49-2098.00	Security and Fire Alarm Systems Installers	0.0
-49-3021.00	Automotive Body and Related Repairers	0.0
-49-3022.00	Automotive Glass Installers and Repairers	0.0
-49-3023.01	Automotive Master Mechanics	0.0
-49-3023.02	Automotive Specialty Technicians	0.0
-49-3031.00	Bus and Truck Mechanics and Diesel Engine Specialists	0.0
-49-3042.00	Mobile Heavy Equipment Mechanics, Except Engines	0.0
-49-3043.00	Rail Car Repairers	0.0
-49-3051.00	Motorboat Mechanics and Service Technicians	0.0
-49-3052.00	Motorcycle Mechanics	0.0
-49-3053.00	Outdoor Power Equipment and Other Small Engine Mechanics	0.0
-49-3091.00	Bicycle Repairers	0.0
-49-9011.00	Mechanical Door Repairers	0.0
-49-9021.02	Refrigeration Mechanics and Installers	0.0
-49-9031.00	Home Appliance Repairers	0.0
-49-9043.00	Maintenance Workers, Machinery	0.0
-49-9044.00	Millwrights	0.0
-49-9045.00	Refractory Materials Repairers, Except Brickmasons	0.0
-49-9051.00	Electrical Power-Line Installers and Repairers	0.0
-49-9052.00	Telecommunications Line Installers and Repairers	0.0
-49-9091.00	Coin, Vending, and Amusement Machine Servicers and Repairers	0.0
-49-9094.00	Locksmiths and Safe Repairers	0.0
-49-9095.00	Manufactured Building and Mobile Home Installers	0.0
-49-9098.00	Helpers--Installation, Maintenance, and Repair Workers	0.0
-51-2021.00	Coil Winders, Tapers, and Finishers	0.0
-51-2022.00	Electrical and Electronic Equipment Assemblers	0.0
-51-2091.00	Fiberglass Laminators and Fabricators	0.0
-51-2092.00	Team Assemblers	0.0
-51-3011.00	Bakers	0.0
-51-3021.00	Butchers and Meat Cutters	0.0
-51-3023.00	Slaughterers and Meat Packers	0.0
-51-3091.00	Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	0.0
-51-3092.00	Food Batchmakers	0.0
-51-3093.00	Food Cooking Machine Operators and Tenders	0.0
-51-4022.00	Forging Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4023.00	Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4031.00	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4033.00	Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4034.00	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4051.00	Metal-Refining Furnace Operators and Tenders	0.0
-51-4061.00	Model Makers, Metal and Plastic	0.0
-51-4072.00	Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4081.00	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4121.06	Welders, Cutters, and Welder Fitters	0.0
-51-4122.00	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	0.0
-51-4191.00	Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	0.0
-51-4192.00	Layout Workers, Metal and Plastic	0.0
-51-4194.00	Tool Grinders, Filers, and Sharpeners	0.0
-51-5112.00	Printing Press Operators	0.0
-51-5113.00	Print Binding and Finishing Workers	0.0
-51-6011.00	Laundry and Dry-Cleaning Workers	0.0
-51-6031.00	Sewing Machine Operators	0.0
-51-6042.00	Shoe Machine Operators and Tenders	0.0
-51-6052.00	Tailors, Dressmakers, and Custom Sewers	0.0
-51-6062.00	Textile Cutting Machine Setters, Operators, and Tenders	0.0
-51-6064.00	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	0.0
 51-6091.00	Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	0.0
-51-6093.00	Upholsterers	0.0
-51-7011.00	Cabinetmakers and Bench Carpenters	0.0
-51-7021.00	Furniture Finishers	0.0
-51-7031.00	Model Makers, Wood	0.0
-51-7032.00	Patternmakers, Wood	0.0
-51-7041.00	Sawing Machine Setters, Operators, and Tenders, Wood	0.0
-51-8012.00	Power Distributors and Dispatchers	0.0
-51-8021.00	Stationary Engineers and Boiler Operators	0.0
-51-8093.00	Petroleum Pump System Operators, Refinery Operators, and Gaugers	0.0
-51-8099.01	Biofuels Processing Technicians	0.0
-51-9021.00	Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	0.0
-51-9031.00	Cutters and Trimmers, Hand	0.0
-51-9071.07	Precious Metal Workers	0.0
-51-9111.00	Packaging and Filling Machine Operators and Tenders	0.0
+49-9091.00	Coin, Vending, and Amusement Machine Servicers and Repairers	0.0
+47-2041.00	Carpet Installers	0.0
+49-9051.00	Electrical Power-Line Installers and Repairers	0.0
+47-2021.00	Brickmasons and Blockmasons	0.0
 51-9121.00	Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	0.0
-51-9122.00	Painters, Transportation Equipment	0.0
-51-9123.00	Painting, Coating, and Decorating Workers	0.0
-51-9191.00	Adhesive Bonding Machine Operators and Tenders	0.0
-51-9192.00	Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	0.0
-51-9193.00	Cooling and Freezing Equipment Operators and Tenders	0.0
-51-9194.00	Etchers and Engravers	0.0
-51-9195.04	Glass Blowers, Molders, Benders, and Finishers	0.0
+49-3051.00	Motorboat Mechanics and Service Technicians	0.0
+49-9045.00	Refractory Materials Repairers, Except Brickmasons	0.0
+43-9021.00	Data Entry Keyers	0.0
+51-7021.00	Furniture Finishers	0.0
+35-2011.00	Cooks, Fast Food	0.0
+51-4023.00	Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
+51-7032.00	Patternmakers, Wood	0.0
+47-4091.00	Segmental Pavers	0.0
+43-6013.00	Medical Secretaries	0.0
+47-2121.00	Glaziers	0.0
+51-4034.00	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
+47-2011.00	Boilermakers	0.0
+51-6042.00	Shoe Machine Operators and Tenders	0.0
+49-2094.00	Electrical and Electronics Repairers, Commercial and Industrial Equipment	0.0
 51-9196.00	Paper Goods Machine Setters, Operators, and Tenders	0.0
-51-9197.00	Tire Builders	0.0
-51-9198.00	Helpers--Production Workers	0.0
-53-2031.00	Flight Attendants	0.0
-53-3011.00	Ambulance Drivers and Attendants, Except Emergency Medical Technicians	0.0
-53-3021.00	Bus Drivers, Transit and Intercity	0.0
-53-3031.00	Driver/Sales Workers	0.0
-53-3033.00	Light Truck or Delivery Services Drivers	0.0
-53-4011.00	Locomotive Engineers	0.0
-53-4012.00	Locomotive Firers	0.0
-53-4013.00	Rail Yard Engineers, Dinkey Operators, and Hostlers	0.0
-53-4021.00	Railroad Brake, Signal, and Switch Operators	0.0
-53-4031.00	Railroad Conductors and Yardmasters	0.0
-53-5022.00	Motorboat Operators	0.0
-53-6011.00	Bridge and Lock Tenders	0.0
-53-6031.00	Automotive and Watercraft Service Attendants	0.0
-53-6051.01	Aviation Inspectors	0.0
-53-6051.07	Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation	0.0
-53-6061.00	Transportation Attendants, Except Flight Attendants	0.0
-53-7011.00	Conveyor Operators and Tenders	0.0
-53-7021.00	Crane and Tower Operators	0.0
-53-7031.00	Dredge Operators	0.0
-53-7032.00	Excavating and Loading Machine and Dragline Operators	0.0
-53-7033.00	Loading Machine Operators, Underground Mining	0.0
-53-7041.00	Hoist and Winch Operators	0.0
-53-7051.00	Industrial Truck and Tractor Operators	0.0
-53-7061.00	Cleaners of Vehicles and Equipment	0.0
-53-7062.00	Laborers and Freight, Stock, and Material Movers, Hand	0.0
-53-7063.00	Machine Feeders and Offbearers	0.0
-53-7064.00	Packers and Packagers, Hand	0.0
-53-7071.00	Gas Compressor and Gas Pumping Station Operators	0.0
 53-7072.00	Pump Operators, Except Wellhead Pumpers	0.0
+35-3021.00	Combined Food Preparation and Serving Workers, Including Fast Food	0.0
+47-2152.01	Pipe Fitters and Steamfitters	0.0
+39-5093.00	Shampooers	0.0
+49-3042.00	Mobile Heavy Equipment Mechanics, Except Engines	0.0
+53-7063.00	Machine Feeders and Offbearers	0.0
+47-5042.00	Mine Cutting and Channeling Machine Operators	0.0
+51-3093.00	Food Cooking Machine Operators and Tenders	0.0
+51-3011.00	Bakers	0.0
+51-9197.00	Tire Builders	0.0
+33-9032.00	Security Guards	0.0
+47-2051.00	Cement Masons and Concrete Finishers	0.0
+47-2152.02	Plumbers	0.0
+51-6062.00	Textile Cutting Machine Setters, Operators, and Tenders	0.0
+53-6031.00	Automotive and Watercraft Service Attendants	0.0
+31-9092.00	Medical Assistants	0.0
+51-9193.00	Cooling and Freezing Equipment Operators and Tenders	0.0
+47-2171.00	Reinforcing Iron and Rebar Workers	0.0
+49-3052.00	Motorcycle Mechanics	0.0
+31-2012.00	Occupational Therapy Aides	0.0
+43-4031.01	Court Clerks	0.0
+51-7011.00	Cabinetmakers and Bench Carpenters	0.0
+53-7011.00	Conveyor Operators and Tenders	0.0
+43-5011.00	Cargo and Freight Agents	0.0
+53-7041.00	Hoist and Winch Operators	0.0
+43-5031.00	Police, Fire, and Ambulance Dispatchers	0.0
+49-3022.00	Automotive Glass Installers and Repairers	0.0
+51-7041.00	Sawing Machine Setters, Operators, and Tenders, Wood	0.0
+35-9021.00	Dishwashers	0.0
+39-5094.00	Skincare Specialists	0.0
+51-5112.00	Printing Press Operators	0.0
+31-9095.00	Pharmacy Aides	0.0
 53-7073.00	Wellhead Pumpers	0.0
+49-2096.00	Electronic Equipment Installers and Repairers, Motor Vehicles	0.0
+51-2022.00	Electrical and Electronic Equipment Assemblers	0.0
+51-4031.00	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
+51-2021.00	Coil Winders, Tapers, and Finishers	0.0
+53-4021.00	Railroad Brake, Signal, and Switch Operators	0.0
+47-5011.00	Derrick Operators, Oil and Gas	0.0
+51-3021.00	Butchers and Meat Cutters	0.0
+53-4011.00	Locomotive Engineers	0.0
+43-5021.00	Couriers and Messengers	0.0
+35-1012.00	First-Line Supervisors of Food Preparation and Serving Workers	0.0
+53-6051.07	Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation	0.0
+51-6011.00	Laundry and Dry-Cleaning Workers	0.0
+39-5092.00	Manicurists and Pedicurists	0.0
+43-5081.02	Marking Clerks	0.0
+53-6011.00	Bridge and Lock Tenders	0.0
+47-2082.00	Tapers	0.0
+29-2081.00	Opticians, Dispensing	0.0
+51-4081.00	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.0
+33-9011.00	Animal Control Workers	0.0
+51-9021.00	Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	0.0
+43-5053.00	Postal Service Mail Sorters, Processors, and Processing Machine Operators	0.0
+51-6064.00	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	0.0
+53-7021.00	Crane and Tower Operators	0.0
+43-5081.01	Stock Clerks, Sales Floor	0.0
+43-2021.00	Telephone Operators	0.0
+33-9031.00	Gaming Surveillance Officers and Gaming Investigators	0.0
+47-5013.00	Service Unit Operators, Oil, Gas, and Mining	0.0
+47-3012.00	Helpers--Carpenters	0.0
+53-3021.00	Bus Drivers, Transit and Intercity	0.0
+53-6051.01	Aviation Inspectors	0.0
+53-7031.00	Dredge Operators	0.0
+51-9198.00	Helpers--Production Workers	0.0
+47-2042.00	Floor Layers, Except Carpet, Wood, and Hard Tiles	0.0
+31-9099.02	Endoscopy Technicians	0.0
+39-1012.00	Slot Supervisors	0.0
+47-5081.00	Helpers--Extraction Workers	0.0
+31-1011.00	Home Health Aides	0.0
+43-9051.00	Mail Clerks and Mail Machine Operators, Except Postal Service	0.0
+41-9012.00	Models	0.0
+51-9111.00	Packaging and Filling Machine Operators and Tenders	0.0
+39-6011.00	Baggage Porters and Bellhops	0.0
+51-8021.00	Stationary Engineers and Boiler Operators	0.0
+51-4192.00	Layout Workers, Metal and Plastic	0.0
+51-2091.00	Fiberglass Laminators and Fabricators	0.0
+51-9195.04	Glass Blowers, Molders, Benders, and Finishers	0.0
+41-2012.00	Gaming Change Persons and Booth Cashiers	0.0
+53-3011.00	Ambulance Drivers and Attendants, Except Emergency Medical Technicians	0.0
+53-7061.00	Cleaners of Vehicles and Equipment	0.0
+47-5041.00	Continuous Mining Machine Operators	0.0
+43-9022.00	Word Processors and Typists	0.0
 53-7111.00	Mine Shuttle Car Operators	0.0
+51-6052.00	Tailors, Dressmakers, and Custom Sewers	0.0
+51-3091.00	Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	0.0
+39-3012.00	Gaming and Sports Book Writers and Runners	0.0
+47-4031.00	Fence Erectors	0.0
+47-2161.00	Plasterers and Stucco Masons	0.0
+53-7062.00	Laborers and Freight, Stock, and Material Movers, Hand	0.0
+49-9021.02	Refrigeration Mechanics and Installers	0.0
+51-4122.00	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	0.0
+45-2091.00	Agricultural Equipment Operators	0.0
+47-5061.00	Roof Bolters, Mining	0.0
+49-3023.01	Automotive Master Mechanics	0.0
+43-5052.00	Postal Service Mail Carriers	0.0
+49-9011.00	Mechanical Door Repairers	0.0
+49-3091.00	Bicycle Repairers	0.0
+49-3043.00	Rail Car Repairers	0.0
+47-2072.00	Pile-Driver Operators	0.0
+39-5012.00	Hairdressers, Hairstylists, and Cosmetologists	0.0
+53-7032.00	Excavating and Loading Machine and Dragline Operators	0.0
+51-8093.00	Petroleum Pump System Operators, Refinery Operators, and Gaugers	0.0
+47-2142.00	Paperhangers	0.0
+51-9031.00	Cutters and Trimmers, Hand	0.0
+43-3041.00	Gaming Cage Workers	0.0
+47-5021.00	Earth Drillers, Except Oil and Gas	0.0
+45-4022.00	Logging Equipment Operators	0.0
+39-3093.00	Locker Room, Coatroom, and Dressing Room Attendants	0.0
+51-4061.00	Model Makers, Metal and Plastic	0.0
+49-3031.00	Bus and Truck Mechanics and Diesel Engine Specialists	0.0
+51-9123.00	Painting, Coating, and Decorating Workers	0.0
+49-3053.00	Outdoor Power Equipment and Other Small Engine Mechanics	0.0
+49-3021.00	Automotive Body and Related Repairers	0.0
+47-2044.00	Tile and Marble Setters	0.0
+53-7033.00	Loading Machine Operators, Underground Mining	0.0
+31-1015.00	Orderlies	0.0
+53-5022.00	Motorboat Operators	0.0
+53-3031.00	Driver/Sales Workers	0.0
+51-2092.00	Team Assemblers	0.0
+47-5071.00	Roustabouts, Oil and Gas	0.0
+41-9041.00	Telemarketers	0.0
+47-3014.00	Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	0.0
+53-7051.00	Industrial Truck and Tractor Operators	0.0
+41-9091.00	Door-To-Door Sales Workers, News and Street Vendors, and Related Workers	0.0
+47-2131.00	Insulation Workers, Floor, Ceiling, and Wall	0.0
+35-2013.00	Cooks, Private Household	0.0
+53-3033.00	Light Truck or Delivery Services Drivers	0.0
+49-2098.00	Security and Fire Alarm Systems Installers	0.0
+51-4194.00	Tool Grinders, Filers, and Sharpeners	0.0
+47-2073.00	Operating Engineers and Other Construction Equipment Operators	0.0
+33-9091.00	Crossing Guards	0.0
+51-6031.00	Sewing Machine Operators	0.0
+47-2132.00	Insulation Workers, Mechanical	0.0
+45-4023.00	Log Graders and Scalers	0.0
+47-2211.00	Sheet Metal Workers	0.0
+43-3021.01	Statement Clerks	0.0
+51-9122.00	Painters, Transportation Equipment	0.0
+51-4022.00	Forging Machine Setters, Operators, and Tenders, Metal and Plastic	0.0
+51-7031.00	Model Makers, Wood	0.0
+51-9192.00	Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	0.0
+47-3013.00	Helpers--Electricians	0.0
+51-8099.01	Biofuels Processing Technicians	0.0
+49-2092.00	Electric Motor, Power Tool, and Related Repairers	0.0
+49-9044.00	Millwrights	0.0
+31-9094.00	Medical Transcriptionists	0.0
+47-4071.00	Septic Tank Servicers and Sewer Pipe Cleaners	0.0
+47-2053.00	Terrazzo Workers and Finishers	0.0
+37-2021.00	Pest Control Workers	0.0
+53-4013.00	Rail Yard Engineers, Dinkey Operators, and Hostlers	0.0
+51-4051.00	Metal-Refining Furnace Operators and Tenders	0.0
+51-4191.00	Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	0.0
+53-6061.00	Transportation Attendants, Except Flight Attendants	0.0
+33-3011.00	Bailiffs	0.0
+51-3092.00	Food Batchmakers	0.0
+47-1011.00	First-Line Supervisors of Construction Trades and Extraction Workers	0.0
+47-5031.00	Explosives Workers, Ordnance Handling Experts, and Blasters	0.0
+35-2015.00	Cooks, Short Order	0.0
