@@ -19,7 +19,9 @@ attributes = sorted(attributes)
 
 job_threshold = 50;
 attribute_threshold = 0;
+rca_threshold = 1;
 edge_threshold = 0.7
+visible_edge_threshold = 0.7
 
 degree_jobs = set();
 with open("degree_jobs.txt", 'r') as csvfile:
@@ -60,7 +62,7 @@ for j in degree_jobs:
 	rca[j] = {}
 	for s in degree_attributes:			
 		rca[j][s] = (attribute_to_vector[s][j]/jvec[j])/(svec[s]/norm);
-		if rca[j][s] > 1:
+		if rca[j][s] > rca_threshold:
 			B.add_node(j, bipartite=0)
 			B.add_node(s, bipartite=1)
 			B.add_edge(j, s, weight=1)
@@ -82,13 +84,17 @@ nlist = set();
 for u, v in G.edges():
 	if G[u][v]["weight"]  > edge_threshold:
 		H.add_edge(u, v, weight=G[u][v]["weight"])
+	if G[u][v]["weight"]  > visible_edge_threshold:
 		elist.append( (u,v) )
 		nlist.add(u)
 		nlist.add(v)
-		
-pos = nx.spring_layout(H, seed=123456); #, k=16/math.sqrt(H.size()), seed=123)
-nx.draw_networkx_nodes(H, pos=pos, node_size=30, nodelist=list(nlist))
-nx.draw_networkx_edges(H, pos=pos, edgelist=elist)
+nlist = list(nlist)
+
+plt.figure(figsize=(40,40))		
+pos = nx.spring_layout(H, seed=123456, k=4/math.sqrt(H.size()))
+nx.draw_networkx_nodes(H, pos=pos, node_size=30, nodelist=nlist)
+nx.draw_networkx_edges(H, pos=pos, edgelist=elist, alpha=0.5)
+nx.draw_networkx_labels(H, pos=pos, labels={ n:code_to_job[n] for n in nlist } )
 plt.savefig("DegreeJobNetwork.png")
 
 
