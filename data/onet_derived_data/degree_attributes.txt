@@ -1,0 +1,232 @@
+Attribute	Correlation
+Reading Comprehension	0.784486104746246
+Writing	0.7813229085984222
+Written Expression	0.7740632717926419
+Active Learning	0.7629045916570175
+Written Comprehension	0.7585993832213637
+Inductive Reasoning	0.75792252627174
+Critical Thinking	0.747377200929162
+Deductive Reasoning	0.7445539886422563
+Complex Problem Solving	0.7315295005447702
+Systems Evaluation	0.7294436298218397
+Systems Analysis	0.7277752875570661
+Judgment and Decision Making	0.7232032602153189
+Fluency of Ideas	0.7084570197463833
+Analyzing Data or Information	0.7057154963108205
+Interpreting the Meaning of Information for Others	0.7041287828578596
+Originality	0.6985900996836297
+Analytical Thinking	0.6942710644292712
+Active Listening	0.6861451789055918
+Electronic Mail	0.6854873050410247
+Speaking	0.6751433243100559
+Learning Strategies	0.6718776541898601
+Oral Expression	0.6618894679468462
+Provide Consultation and Advice to Others	0.6484586643057273
+English Language	0.6461772655256249
+Speech Clarity	0.6450171161065902
+Developing Objectives and Strategies	0.6415932351254504
+Oral Comprehension	0.6395572321293042
+Updating and Using Relevant Knowledge	0.6250052648332557
+Instructing	0.6205617258854446
+Category Flexibility	0.6055795802982327
+Achievement/Effort	0.6038217287918402
+Public Speaking	0.6014752570490672
+Interacting With Computers	0.5877544549940752
+Thinking Creatively	0.5876753804330995
+Science	0.5812503883403013
+Persistence	0.5806403470062271
+Initiative	0.5772177639146375
+Speech Recognition	0.5695492794890843
+Memorization	0.5651882203073151
+Operations Analysis	0.5559351139599307
+Persuasion	0.5545709843854437
+Information Ordering	0.5538373233023324
+Spend Time Sitting	0.5462353409975433
+Letters and Memos	0.539093461332471
+Mathematical Reasoning	0.5355227562519301
+Establishing and Maintaining Interpersonal Relationships	0.5324050476885852
+Sociology and Anthropology	0.5290019640099832
+Making Decisions and Solving Problems	0.5246687286038852
+Organizing, Planning, and Prioritizing Work	0.5200032527809285
+Processing Information	0.5194886435721802
+Negotiation	0.5169541475665674
+Communications and Media	0.5114842152159045
+Communicating with Persons Outside Organization	0.5090674912258647
+Integrity	0.5026358637373862
+Indoors, Environmentally Controlled	0.5002236190493268
+Getting Information	0.495289270879308
+Mathematics	0.49143866191019936
+Social Perceptiveness	0.49043744867999206
+Structured versus Unstructured Work	0.48773708470720656
+Computers and Electronics	0.48485919077250517
+Programming	0.4797098298535784
+Management of Personnel Resources	0.4778822252755031
+Number Facility	0.4749901710126713
+Problem Sensitivity	0.4737295924766121
+Time Management	0.4692586869025547
+Monitoring	0.4582458542526577
+Documenting/Recording Information	0.4530645395308435
+Innovation	0.45016939121678123
+Biology	0.4456609805517755
+History and Archeology	0.4413535116859364
+Education and Training	0.4398068682722688
+Psychology	0.43853736529650217
+Philosophy and Theology	0.43840361125185395
+Freedom to Make Decisions	0.4275067378890405
+Scheduling Work and Activities	0.4217863295342287
+Coordination	0.4193997217113104
+Leadership	0.4086021106746661
+Developing and Building Teams	0.3963957681955765
+Coaching and Developing Others	0.3896273445010685
+Telephone	0.3869329244988888
+Adaptability/Flexibility	0.3832042185872366
+Communicating with Supervisors, Peers, or Subordinates	0.37267106848507514
+Law and Government	0.37152623882856467
+Service Orientation	0.3669140850578024
+Speed of Closure	0.3635153518488027
+Technology Design	0.3602068195910583
+Therapy and Counseling	0.3554742207732798
+Staffing Organizational Units	0.35478508368669565
+Management of Financial Resources	0.35358596200053544
+Level of Competition	0.3485703974137456
+Performing Administrative Activities	0.34777587188021025
+Guiding, Directing, and Motivating Subordinates	0.3459475795821208
+Training and Teaching Others	0.33501596896220853
+Independence	0.3258618940803945
+Administration and Management	0.32063119531086676
+Personnel and Human Resources	0.31349803739336984
+Economics and Accounting	0.31246232564246706
+Coordinating the Work and Activities of Others	0.3024095486102763
+Geography	0.29669997776050183
+Flexibility of Closure	0.2867016313247519
+Identifying Objects, Actions, and Events	0.271237895434179
+Coordinate or Lead Others	0.26895011219331344
+Face-to-Face Discussions	0.26296926616275623
+Medicine and Dentistry	0.26059793299711737
+Management of Material Resources	0.26038101995609675
+Selling or Influencing Others	0.25456095071498436
+Attention to Detail	0.2542235958716207
+Judging the Qualities of Things, Services, or People	0.25342358457263553
+Near Vision	0.2533862116282833
+Monitoring and Controlling Resources	0.24944835893779235
+Cooperation	0.23965219987246625
+Resolving Conflicts and Negotiating with Others	0.23781196141608502
+Dependability	0.23190618648801853
+Stress Tolerance	0.22774682932344084
+Clerical	0.227233603164023
+Evaluating Information to Determine Compliance with Standards	0.1940725062651012
+Estimating the Quantifiable Characteristics of Products, Events, or Information	0.18352210208245368
+Fine Arts	0.17936368970416083
+Work With Work Group or Team	0.17185700830420889
+Foreign Language	0.17053014829124283
+Chemistry	0.1515063638931768
+Physics	0.1486775268351388
+Engineering and Technology	0.13944644261111958
+Deal With External Customers	0.12347683692783613
+Sales and Marketing	0.1205086294258205
+Social Orientation	0.10898955673222786
+Impact of Decisions on Co-workers or Company Results	0.10254597392933205
+Exposed to Disease or Infections	0.0976101872643976
+Frequency of Conflict Situations	0.0944051526042442
+Contact With Others	0.0875400628801794
+Telecommunications	0.08624828286643577
+Concern for Others	0.08311564012438982
+Design	0.06895836911713485
+Selective Attention	0.06211051252682055
+Self Control	0.058699108333502135
+Customer and Personal Service	0.04141053922588576
+Performing for or Working Directly with the Public	0.035582420145319926
+Time Sharing	0.03293413866503521
+Responsibility for Outcomes and Results	0.03136772593713142
+Assisting and Caring for Others	0.010857754959941717
+Exposed to Radiation	0.0032389425650287285
+Monitor Processes, Materials, or Surroundings	-0.03358520001095252
+Importance of Being Exact or Accurate	-0.04144879076887147
+Visualization	-0.05007710838527624
+Frequency of Decision Making	-0.05315980218288136
+Time Pressure	-0.062020841445155926
+Deal With Physically Aggressive People	-0.07758441252154585
+Far Vision	-0.07889440582079867
+Perceptual Speed	-0.09673601723733288
+Food Production	-0.10884624027222321
+Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment	-0.1159023041751104
+Degree of Automation	-0.1407846212484644
+Consequence of Error	-0.15654560337054294
+Building and Construction	-0.1639067434701768
+Deal With Unpleasant or Angry People	-0.17330919564045924
+In an Enclosed Vehicle or Equipment	-0.17902024103824238
+Public Safety and Security	-0.20691850214813778
+Physical Proximity	-0.21802326105397796
+Outdoors, Under Cover	-0.22254628286559575
+Visual Color Discrimination	-0.24752831520695062
+Transportation	-0.2610924078954821
+Installation	-0.26539386127932657
+Production and Processing	-0.2967908486268958
+Quality Control Analysis	-0.3019098840716022
+Importance of Repeating Same Tasks	-0.30203127285363796
+Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection	-0.3061194008126475
+Responsible for Others' Health and Safety	-0.31808354251531623
+Outdoors, Exposed to Weather	-0.32413203595185025
+Hearing Sensitivity	-0.33923987388091326
+Repairing and Maintaining Electronic Equipment	-0.3434396815885712
+Indoors, Not Environmentally Controlled	-0.37228230059446477
+Exposed to Whole Body Vibration	-0.37503114066158755
+Exposed to High Places	-0.3803920990070207
+Exposed to Hazardous Conditions	-0.3805714674249482
+Dynamic Flexibility	-0.3810140300542083
+Spend Time Climbing Ladders, Scaffolds, or Poles	-0.3814388539168662
+Mechanical	-0.3844182164519874
+In an Open Vehicle or Equipment	-0.3964799999445853
+Explosive Strength	-0.40198052520641725
+Equipment Selection	-0.4098919919477065
+Auditory Attention	-0.41441906652326876
+Operation Monitoring	-0.418096536293612
+Troubleshooting	-0.4480451678733853
+Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets	-0.45421234174309305
+Depth Perception	-0.45510655585232146
+Spatial Orientation	-0.46737365576083467
+Night Vision	-0.47580945938753005
+Repairing	-0.48064158387112543
+Sound Localization	-0.489323400260948
+Extremely Bright or Inadequate Lighting	-0.49286387005948823
+Peripheral Vision	-0.49731118908866934
+Cramped Work Space, Awkward Positions	-0.49732681689296604
+Equipment Maintenance	-0.4993155563891672
+Inspecting Equipment, Structures, or Material	-0.5001935699296784
+Exposed to Hazardous Equipment	-0.502000597290563
+Glare Sensitivity	-0.5037407974205101
+Wrist-Finger Speed	-0.5132835654249344
+Very Hot or Cold Temperatures	-0.5185913355770186
+Finger Dexterity	-0.5229530131836486
+Spend Time Keeping or Regaining Balance	-0.5231333740413416
+Operating Vehicles, Mechanized Devices, or Equipment	-0.523706878809495
+Spend Time Kneeling, Crouching, Stooping, or Crawling	-0.5314419638420622
+Operation and Control	-0.5378552960877696
+Sounds, Noise Levels Are Distracting or Uncomfortable	-0.5390265522054721
+Response Orientation	-0.5590185564173608
+Repairing and Maintaining Mechanical Equipment	-0.5591970121634006
+Pace Determined by Speed of Equipment	-0.5608266987110169
+Controlling Machines and Processes	-0.5664052717918424
+Spend Time Standing	-0.5692925615346042
+Exposed to Minor Burns, Cuts, Bites, or Stings	-0.5735084060960306
+Gross Body Equilibrium	-0.5762785666330874
+Exposed to Contaminants	-0.5852546805974587
+Spend Time Walking and Running	-0.5880760334342686
+Rate Control	-0.5936260821876238
+Reaction Time	-0.5957115007934594
+Gross Body Coordination	-0.6007998078239846
+Spend Time Making Repetitive Motions	-0.6041373184713663
+Speed of Limb Movement	-0.6046220374743666
+Control Precision	-0.6108418450622581
+Stamina	-0.6128153520947887
+Trunk Strength	-0.6185568118203232
+Arm-Hand Steadiness	-0.625985520768907
+Dynamic Strength	-0.6285499112114461
+Performing General Physical Activities	-0.6287013361153885
+Multilimb Coordination	-0.630431031073378
+Static Strength	-0.6423797640042889
+Extent Flexibility	-0.6561842172840449
+Spend Time Bending or Twisting the Body	-0.6703963254013331
+Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls	-0.6710940319125828
+Handling and Moving Objects	-0.6713045865975338
+Manual Dexterity	-0.6780149531477573
