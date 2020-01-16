@@ -17,7 +17,7 @@ def get_jobs():
 
 code_to_job_dict = {}
 job_to_code_dict = {}
-with open("../../data/db_24_0_text/Occupation Data.txt", 'r') as infile:
+with open("db_24_0_text/Occupation Data.txt", 'r') as infile:
 	csvreader=csv.reader(infile, delimiter="\t");
 	next(csvreader)
 	for row in csvreader:

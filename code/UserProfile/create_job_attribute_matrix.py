@@ -5,7 +5,7 @@ import numpy as np
 attribute_to_vector = {}
 attributes = set();
 jobs = set();
-for fname in ["../../data/db_24_0_text/Work Styles.txt", "../../data/db_24_0_text/Work Context.txt", "../../data/db_24_0_text/Work Activities.txt", "../../data/db_24_0_text/Knowledge.txt", "../../data/db_24_0_text/Skills.txt","../../data/db_24_0_text/Abilities.txt" ]:
+for fname in ["db_24_0_text/Work Styles.txt", "db_24_0_text/Work Context.txt", "db_24_0_text/Work Activities.txt", "db_24_0_text/Knowledge.txt", "db_24_0_text/Skills.txt","db_24_0_text/Abilities.txt" ]:
 	with open(fname, 'r') as csvfile:
 		csvreader = csv.reader(csvfile, delimiter='\t', quotechar='"')
 		header = next(csvreader);

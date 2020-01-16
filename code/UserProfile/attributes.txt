@@ -1,0 +1,231 @@
+achievement/effort
+active learning
+active listening
+adaptability/flexibility
+administration and management
+analytical thinking
+analyzing data or information
+arm-hand steadiness
+assisting and caring for others
+attention to detail
+auditory attention
+biology
+building and construction
+category flexibility
+chemistry
+clerical
+coaching and developing others
+communicating with persons outside organization
+communicating with supervisors, peers, or subordinates
+communications and media
+complex problem solving
+computers and electronics
+concern for others
+consequence of error
+contact with others
+control precision
+controlling machines and processes
+cooperation
+coordinate or lead others
+coordinating the work and activities of others
+coordination
+cramped work space, awkward positions
+critical thinking
+customer and personal service
+deal with external customers
+deal with physically aggressive people
+deal with unpleasant or angry people
+deductive reasoning
+degree of automation
+dependability
+depth perception
+design
+developing and building teams
+developing objectives and strategies
+documenting/recording information
+drafting, laying out, and specifying technical devices, parts, and equipment
+dynamic flexibility
+dynamic strength
+economics and accounting
+education and training
+electronic mail
+engineering and technology
+english language
+equipment maintenance
+equipment selection
+establishing and maintaining interpersonal relationships
+estimating the quantifiable characteristics of products, events, or information
+evaluating information to determine compliance with standards
+explosive strength
+exposed to contaminants
+exposed to disease or infections
+exposed to hazardous conditions
+exposed to hazardous equipment
+exposed to high places
+exposed to minor burns, cuts, bites, or stings
+exposed to radiation
+exposed to whole body vibration
+extent flexibility
+extremely bright or inadequate lighting
+face-to-face discussions
+far vision
+fine arts
+finger dexterity
+flexibility of closure
+fluency of ideas
+food production
+foreign language
+freedom to make decisions
+frequency of conflict situations
+frequency of decision making
+geography
+getting information
+glare sensitivity
+gross body coordination
+gross body equilibrium
+guiding, directing, and motivating subordinates
+handling and moving objects
+hearing sensitivity
+history and archeology
+identifying objects, actions, and events
+impact of decisions on co-workers or company results
+importance of being exact or accurate
+importance of repeating same tasks
+in an enclosed vehicle or equipment
+in an open vehicle or equipment
+independence
+indoors, environmentally controlled
+indoors, not environmentally controlled
+inductive reasoning
+information ordering
+initiative
+innovation
+inspecting equipment, structures, or material
+installation
+instructing
+integrity
+interacting with computers
+interpreting the meaning of information for others
+judging the qualities of things, services, or people
+judgment and decision making
+law and government
+leadership
+learning strategies
+letters and memos
+level of competition
+making decisions and solving problems
+management of financial resources
+management of material resources
+management of personnel resources
+manual dexterity
+mathematical reasoning
+mathematics
+mechanical
+medicine and dentistry
+memorization
+monitor processes, materials, or surroundings
+monitoring
+monitoring and controlling resources
+multilimb coordination
+near vision
+negotiation
+night vision
+number facility
+operating vehicles, mechanized devices, or equipment
+operation and control
+operation monitoring
+operations analysis
+oral comprehension
+oral expression
+organizing, planning, and prioritizing work
+originality
+outdoors, exposed to weather
+outdoors, under cover
+pace determined by speed of equipment
+perceptual speed
+performing administrative activities
+performing for or working directly with the public
+performing general physical activities
+peripheral vision
+persistence
+personnel and human resources
+persuasion
+philosophy and theology
+physical proximity
+physics
+problem sensitivity
+processing information
+production and processing
+programming
+provide consultation and advice to others
+psychology
+public safety and security
+public speaking
+quality control analysis
+rate control
+reaction time
+reading comprehension
+repairing
+repairing and maintaining electronic equipment
+repairing and maintaining mechanical equipment
+resolving conflicts and negotiating with others
+response orientation
+responsibility for outcomes and results
+responsible for others' health and safety
+sales and marketing
+scheduling work and activities
+science
+selective attention
+self control
+selling or influencing others
+service orientation
+social orientation
+social perceptiveness
+sociology and anthropology
+sound localization
+sounds, noise levels are distracting or uncomfortable
+spatial orientation
+speaking
+speech clarity
+speech recognition
+speed of closure
+speed of limb movement
+spend time bending or twisting the body
+spend time climbing ladders, scaffolds, or poles
+spend time keeping or regaining balance
+spend time kneeling, crouching, stooping, or crawling
+spend time making repetitive motions
+spend time sitting
+spend time standing
+spend time using your hands to handle, control, or feel objects, tools, or controls
+spend time walking and running
+staffing organizational units
+stamina
+static strength
+stress tolerance
+structured versus unstructured work
+systems analysis
+systems evaluation
+technology design
+telecommunications
+telephone
+therapy and counseling
+thinking creatively
+time management
+time pressure
+time sharing
+training and teaching others
+transportation
+troubleshooting
+trunk strength
+updating and using relevant knowledge
+very hot or cold temperatures
+visual color discrimination
+visualization
+wear common protective or safety equipment such as safety shoes, glasses, gloves, hearing protection, hard hats, or life jackets
+wear specialized protective or safety equipment such as breathing apparatus, safety harness, full protection suits, or radiation protection
+work with work group or team
+wrist-finger speed
+writing
+written comprehension
+written expression

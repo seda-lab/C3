@@ -6,14 +6,6 @@ import matplotlib.pyplot as plt
 from utils import *
 
 def get_dummy_user(jobtitle):
-	#code_to_job = {}
-	#job_to_code = {}
-	#with open("../../data/db_24_0_text/Occupation Data.txt", 'r') as infile:
-	#	csvreader=csv.reader(infile, delimiter="\t");
-	#	next(csvreader)
-	#	for row in csvreader:
-	#		code_to_job[ row[0] ] = row[1].lower()
-	#		job_to_code[row[1].lower()] = row[0]
 
 	code = ""
 	if job_to_code(jobtitle):
